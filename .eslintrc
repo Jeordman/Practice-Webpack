@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "warn" //!adds rule to warn about console.logs
+  },
+  "extends": ["airbnb-base"]
+}
